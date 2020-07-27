@@ -8,8 +8,6 @@ I am Vlad Barkanass I'm student at Ort Braude College.
 
 Studying Applied Mathematics and Software Engineering.
 
------
-
 ## Knowledges
 
 ### general purpose programming language 
