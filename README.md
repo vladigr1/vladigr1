@@ -1,12 +1,13 @@
 # Hi, I'm Vlad
 [![Mail](https://img.shields.io/badge/-vladigr1@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vladigr1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Vlad_Barkanass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlad-barkanass-20b7721b0/)](https://www.linkedin.com/in/vlad-barkanass-20b7721b0/) 
+[![stack exchange](https://img.shields.io/badge/-Vlad_Barkanass-1E5397?style=flat-square&logo=stack-exchange&logoColor=white&link=https://meta.stackexchange.com/users/821594/vlad-barkanass?tab=profile)](https://meta.stackexchange.com/users/821594/vlad-barkanass?tab=profile)
 
 ## About me
 
-My name is Vlad Barkanass and I'm a student at Ort Braude College. <br/>
+My name is Vlad Barkanass and I'm a student at Ort Braude College. \
 I'm in my fourth year of studies towards a bachelor of science in 
-Applied Mathematics and Software Engineering.<br>
+Applied Mathematics and Software Engineering.\
 Enjoy solving puzzles and diffrent problems.
 
 ## Knowledge
